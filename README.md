@@ -32,7 +32,7 @@ Tested on Ubuntu 20.04.6 LTS on Nano Jetson and AWR1843BOOST mmWave radar board
    sudo chmod 666 /dev/ttyACM1
    ```
 
-10. Then, go to the launch folder in ros1_driver and run the following command to collect data:
+10. Then, go to the launch folder in ros1_driver and when in this directory, run the following command to collect data:
     ```
     roslaunch ti_mmwave_rospkg 1843_multi_3d_0.launch
     ```
