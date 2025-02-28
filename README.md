@@ -1,6 +1,6 @@
 # mmWave-Radar
 
-## mmWave Data Collection
+## Data Collection Process
 
 ### Steps to set up data collection environment. 
 
