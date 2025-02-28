@@ -39,7 +39,7 @@ Tested on Ubuntu 20.04.6 LTS on Nano Jetson and AWR1843BOOST mmWave radar board
 
 11. Then open a new terminal and run the following command to subscribe to the ros topic
     ```
-    python3 data_collection.py
+    python3 data_collector.py
     ```
 
 12. Remember to toggle SOP2,1,0 to “001" on the mmwave radar board to get the board into functional mode to produce pcl data
