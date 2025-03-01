@@ -39,6 +39,7 @@ Tested on Ubuntu 20.04.6 LTS on Nano Jetson and AWR1843BOOST mmWave radar board
 
 11. Then open a new terminal and run the following command to subscribe to the ros topic
     ```
+    source /opt/ros/noetic/setup.bash
     python3 data_collector.py
     ```
 
